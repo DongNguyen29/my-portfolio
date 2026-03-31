@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nYour Post Title\n\n\n\nR\n\nData Visualization\n\n\n\nOne sentence summary of what this post covers.\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dong Nguyen",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nHi! I’m Dong Nguyen, a student at Macalester College studying Economics and Statistics.\nI’m interested in …\n\n\nMacalester College | St. Paul, MN B.A. in Computer Science | Aug 2024 - May 2028\n\n\n\nYour Internship | Company Name | Summer 2024\nBrief description of what you did there.\n\n\n\nR · Python · SQL · tidymodels · ggplot2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dong Nguyen",
+    "section": "",
+    "text": "Macalester College | St. Paul, MN B.A. in Computer Science | Aug 2024 - May 2028"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dong Nguyen",
+    "section": "",
+    "text": "Your Internship | Company Name | Summer 2024\nBrief description of what you did there."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Dong Nguyen",
+    "section": "",
+    "text": "R · Python · SQL · tidymodels · ggplot2"
+  },
+  {
+    "objectID": "projects/sample-project/index.html",
+    "href": "projects/sample-project/index.html",
+    "title": "Your Project Title",
+    "section": "",
+    "text": "What was the goal of this project? What question were you trying to answer?"
+  },
+  {
+    "objectID": "projects/sample-project/index.html#overview",
+    "href": "projects/sample-project/index.html#overview",
+    "title": "Your Project Title",
+    "section": "",
+    "text": "What was the goal of this project? What question were you trying to answer?"
+  },
+  {
+    "objectID": "projects/sample-project/index.html#data",
+    "href": "projects/sample-project/index.html#data",
+    "title": "Your Project Title",
+    "section": "Data",
+    "text": "Data\nWhere did the data come from? How big was it? What were the key variables?"
+  },
+  {
+    "objectID": "projects/sample-project/index.html#methods",
+    "href": "projects/sample-project/index.html#methods",
+    "title": "Your Project Title",
+    "section": "Methods",
+    "text": "Methods\nWhat did you do? Which models or tools did you use?\nlibrary(tidymodels)\n\n# your code here"
+  },
+  {
+    "objectID": "projects/sample-project/index.html#results",
+    "href": "projects/sample-project/index.html#results",
+    "title": "Your Project Title",
+    "section": "Results",
+    "text": "Results\nWhat did you find? Include a plot or table if you have one."
+  },
+  {
+    "objectID": "projects/sample-project/index.html#what-i-learned",
+    "href": "projects/sample-project/index.html#what-i-learned",
+    "title": "Your Project Title",
+    "section": "What I Learned",
+    "text": "What I Learned\nWhat surprised you? What would you do differently?"
+  },
+  {
+    "objectID": "projects/sample-project/index.html#links",
+    "href": "projects/sample-project/index.html#links",
+    "title": "Your Project Title",
+    "section": "Links",
+    "text": "Links\n\nGitHub Repo"
+  },
+  {
+    "objectID": "posts/sample-post/index.html",
+    "href": "posts/sample-post/index.html",
+    "title": "Your Post Title",
+    "section": "",
+    "text": "What is this post about? What will readers learn?"
+  },
+  {
+    "objectID": "posts/sample-post/index.html#introduction",
+    "href": "posts/sample-post/index.html#introduction",
+    "title": "Your Post Title",
+    "section": "",
+    "text": "What is this post about? What will readers learn?"
+  },
+  {
+    "objectID": "posts/sample-post/index.html#the-content",
+    "href": "posts/sample-post/index.html#the-content",
+    "title": "Your Post Title",
+    "section": "The Content",
+    "text": "The Content\nExplain the concept, skill, or analysis. Code chunks work here too.\nlibrary(tidyverse)\n\n# your code here"
+  },
+  {
+    "objectID": "posts/sample-post/index.html#key-takeaway",
+    "href": "posts/sample-post/index.html#key-takeaway",
+    "title": "Your Post Title",
+    "section": "Key Takeaway",
+    "text": "Key Takeaway\nWhat’s the one thing you want readers to walk away with?"
+  },
+  {
+    "objectID": "posts/sample-post/index.html#resources",
+    "href": "posts/sample-post/index.html#resources",
+    "title": "Your Post Title",
+    "section": "Resources",
+    "text": "Resources\n\nLink to dataset or tutorial"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nYour Project Title\n\n\n\nR\n\nMachine Learning\n\n\n\nOne sentence describing what this project does.\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Write a few sentences about where you’re from and what brought you to data science."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "Write a few sentences about where you’re from and what brought you to data science."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nWhat problems do you want to work on? What excites you outside of class?"
+  },
+  {
+    "objectID": "about.html#outside-the-classroom",
+    "href": "about.html#outside-the-classroom",
+    "title": "About Me",
+    "section": "Outside the Classroom",
+    "text": "Outside the Classroom\nA little personality goes a long way here. Mention hobbies, clubs, languages, travel, etc."
+  }
+]

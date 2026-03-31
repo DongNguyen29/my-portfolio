@@ -1,0 +1,31 @@
+---
+title: "Your Post Title"
+description: "One sentence summary of what this post covers."
+image: featured.png
+categories:
+  - R
+  - Data Visualization
+date: 2025-03-01
+---
+
+## Introduction
+
+What is this post about? What will readers learn?
+
+## The Content
+
+Explain the concept, skill, or analysis. Code chunks work here too.
+
+```r
+library(tidyverse)
+
+# your code here
+```
+
+## Key Takeaway
+
+What's the one thing you want readers to walk away with?
+
+## Resources
+
+- [Link to dataset or tutorial](#)

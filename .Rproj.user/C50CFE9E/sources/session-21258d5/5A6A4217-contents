@@ -1,0 +1,40 @@
+---
+title: "Dong Nguyen"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dong-nguyen-1560a8350/
+    - icon: envelope
+      text: Email
+      href: mailto:you@macalester.edu
+---
+
+:::{#intro-heading}
+
+Hi! I'm **Dong Nguyen**, a student at Macalester College studying Economics and Statistics.
+
+I'm interested in ...
+
+## Education
+
+**Macalester College** | St. Paul, MN
+B.A. in Computer Science | Aug 2024 - May 2028
+
+## Experience
+
+**Your Internship** | Company Name | Summer 2024
+
+Brief description of what you did there.
+
+## Skills
+
+R · Python · SQL · tidymodels · ggplot2
+
+:::
